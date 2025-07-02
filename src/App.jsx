@@ -15,8 +15,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Caraousel/>} />
           <Route path="/About" element={<About/>} />
-          <Route path="/contact" element={<Contact/>} />
-          <Route path="/admissions" element={<Admissions/>} />
+          <Route path="/Contact" element={<Contact/>} />
+          <Route path="/Admissions" element={<Admissions/>} />
         </Routes>
         <Footer />
       </BrowserRouter>
