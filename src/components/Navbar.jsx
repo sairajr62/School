@@ -32,7 +32,7 @@ function Navbar() {
         <li><Link to="/Contact">Contact Us</Link></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl flex items-center justify-center"> 
+    <a className="text-2xl flex items-center justify-center"> 
     <img src={logo} alt="Logo" className="h-10 w-10 mr-2" />
       Springdale Public School </a>
   </div>
